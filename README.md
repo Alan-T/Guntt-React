@@ -1,1 +1,1 @@
-# Gantt-React
+# gantt-react
